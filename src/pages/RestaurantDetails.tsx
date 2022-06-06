@@ -15,6 +15,8 @@ export const RestaurantDetails = () => {
   const getRestaurant = async () => {
     if (resId) {
       let tempRestaurant = await restaurantService.getById(resId);
+      console.log(tempRestaurant);
+      
       setRestaurant(tempRestaurant);
     }
   };

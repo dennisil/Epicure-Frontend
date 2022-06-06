@@ -15,7 +15,7 @@ export const Home = () => {
   const dispatch: AppDispatch = useDispatch();
 
   const getAllHomepageData = () => {
-    const ChefOfTheWeekId = "efbcec16-a0eb-404c-8e07-efdbb95c46e7";
+    const ChefOfTheWeekId = "62861fdd7e29e8169eabb331";
     dispatch(getDishes());
     dispatch(getRestaurants());
     dispatch(getChefById(ChefOfTheWeekId));

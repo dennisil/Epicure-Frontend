@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa6a8b4d.css",
+    "main.js": "/static/js/main.b34ea17c.js",
+    "static/media/hero-picture.jpg": "/static/media/hero-picture.ddc3bbb53e3cb8d3633e.jpg",
+    "static/media/Pragmatica-ExtraLight.ttf": "/static/media/Pragmatica-ExtraLight.794077382d9505e23d72.ttf",
+    "static/media/HelveticaNeueUltraLight.ttf": "/static/media/HelveticaNeueUltraLight.9231a9954e349641acbd.ttf",
+    "static/media/yossi.jpg": "/static/media/yossi.05588fe5702fcd2acffb.jpg",
+    "static/media/user-icon.svg": "/static/media/user-icon.52655931112f5353775ceb29f7978dbf.svg",
+    "static/media/apple.svg": "/static/media/apple.5f389c917ce0711fa93d8ed0f2a1e0ac.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.d8990ad139f5b1df8c97075c17767b79.svg",
+    "index.html": "/index.html",
+    "static/media/bag-icon.svg": "/static/media/bag-icon.cd4c38243a3b911a84a15beeab528c95.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.127738d2e0c8558cf9da94589c6b87d0.svg",
+    "static/media/google-store.svg": "/static/media/google-store.e5f49e703b88fb2eb5190036e0f44972.svg",
+    "main.aa6a8b4d.css.map": "/static/css/main.aa6a8b4d.css.map",
+    "main.b34ea17c.js.map": "/static/js/main.b34ea17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6a8b4d.css",
+    "static/js/main.b34ea17c.js"
+  ]
+}
