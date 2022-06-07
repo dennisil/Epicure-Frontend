@@ -27,7 +27,8 @@ export const DishList = (props: {
   // Set space between the cards
   const setSpaceBetween = (): number => {
     if (isMobile) {
-      if ("price" in props.items[0]) return 70;
+      console.log(props.items)
+      if (props.items && "price" in props.items[0]) return 70;
       else if (props.isMinimal) return -120;
       else return -20;
     }

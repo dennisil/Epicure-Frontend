@@ -9,6 +9,7 @@ async function query() {
   try {
     let res = await axios.get(API_URL);
     let dishes = res.data;
+    console.log(dishes)
     return dishes;
   } catch (err) {
     console.log(err);

@@ -12,6 +12,7 @@ async function query() {
   try {
     const res = await axios.get(API_URL);
     const restaurantsToReturn = res.data;
+    console.log(restaurantsToReturn)
     return restaurantsToReturn;
   } catch (err) {
     console.log(err);
