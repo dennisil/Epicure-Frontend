@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aa6a8b4d.css",
-    "main.js": "/static/js/main.24fb85b9.js",
+    "main.js": "/static/js/main.25116ba4.js",
     "static/media/hero-picture.jpg": "/static/media/hero-picture.ddc3bbb53e3cb8d3633e.jpg",
     "static/media/Pragmatica-ExtraLight.ttf": "/static/media/Pragmatica-ExtraLight.794077382d9505e23d72.ttf",
     "static/media/HelveticaNeueUltraLight.ttf": "/static/media/HelveticaNeueUltraLight.9231a9954e349641acbd.ttf",
@@ -14,10 +14,10 @@
     "static/media/hamburger.svg": "/static/media/hamburger.127738d2e0c8558cf9da94589c6b87d0.svg",
     "static/media/google-store.svg": "/static/media/google-store.e5f49e703b88fb2eb5190036e0f44972.svg",
     "main.aa6a8b4d.css.map": "/static/css/main.aa6a8b4d.css.map",
-    "main.24fb85b9.js.map": "/static/js/main.24fb85b9.js.map"
+    "main.25116ba4.js.map": "/static/js/main.25116ba4.js.map"
   },
   "entrypoints": [
     "static/css/main.aa6a8b4d.css",
-    "static/js/main.24fb85b9.js"
+    "static/js/main.25116ba4.js"
   ]
 }
