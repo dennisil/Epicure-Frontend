@@ -6,7 +6,7 @@ export const restaurantService = {
  
 };
 
-const API_URL = "http://localhost:2718/api/v1/restaurant";
+const API_URL = "http://127.0.0.1:2718/api/v1/restaurant";
 
 async function query() {
   try {

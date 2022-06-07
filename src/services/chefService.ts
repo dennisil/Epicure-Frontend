@@ -6,7 +6,7 @@ export const chefService = {
 
 };
 
-const API_URL = "http://localhost:2718/api/v1/chef";
+const API_URL = "http://127.0.0.1:2718/api/v1/chef";
 
 async function query() {
   try {
