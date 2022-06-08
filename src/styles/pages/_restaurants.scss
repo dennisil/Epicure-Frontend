@@ -1,6 +1,6 @@
 .res-page {
   animation: 1s slideInFromLeft;
-  // min-height: calc(100vh - 160px);
+  min-height: calc(100vh - 160px);
   .filter-links {
     @include for-mobile-layout {
       gap: 1.2em;
