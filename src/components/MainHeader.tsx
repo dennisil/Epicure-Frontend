@@ -31,7 +31,7 @@ export const MainHeader = () => {
             <ul className="links flex ">
               <li>
                 <Link to={"/"} className="home-link">
-                  Epicure
+                  EPICURE
                 </Link>
               </li>
               <li>

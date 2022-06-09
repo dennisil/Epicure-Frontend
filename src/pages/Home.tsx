@@ -16,9 +16,15 @@ export const Home = () => {
 
   const getAllHomepageData = () => {
     const ChefOfTheWeekId = "62861fdd7e29e8169eabb331";
-    dispatch(getDishes());
-    dispatch(getRestaurants());
-    dispatch(getChefById(ChefOfTheWeekId));
+    try {
+      Promise.all([
+        dispatch(getDishes()),
+        dispatch(getRestaurants()),
+        dispatch(getChefById(ChefOfTheWeekId)),
+      ]);
+    } catch (err) {
+      console.log(err);
+    }
   };
 
   useEffect(() => {

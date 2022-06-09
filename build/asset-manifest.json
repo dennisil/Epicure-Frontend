@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.67b8be26.css",
-    "main.js": "/static/js/main.583333b7.js",
+    "main.css": "/static/css/main.d64b2766.css",
+    "main.js": "/static/js/main.0063f4db.js",
     "static/media/hero-picture.jpg": "/static/media/hero-picture.ddc3bbb53e3cb8d3633e.jpg",
     "static/media/Pragmatica-ExtraLight.ttf": "/static/media/Pragmatica-ExtraLight.794077382d9505e23d72.ttf",
     "static/media/HelveticaNeueUltraLight.ttf": "/static/media/HelveticaNeueUltraLight.9231a9954e349641acbd.ttf",
@@ -13,11 +13,11 @@
     "static/media/bag-icon.svg": "/static/media/bag-icon.cd4c38243a3b911a84a15beeab528c95.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.127738d2e0c8558cf9da94589c6b87d0.svg",
     "static/media/google-store.svg": "/static/media/google-store.e5f49e703b88fb2eb5190036e0f44972.svg",
-    "main.67b8be26.css.map": "/static/css/main.67b8be26.css.map",
-    "main.583333b7.js.map": "/static/js/main.583333b7.js.map"
+    "main.d64b2766.css.map": "/static/css/main.d64b2766.css.map",
+    "main.0063f4db.js.map": "/static/js/main.0063f4db.js.map"
   },
   "entrypoints": [
-    "static/css/main.67b8be26.css",
-    "static/js/main.583333b7.js"
+    "static/css/main.d64b2766.css",
+    "static/js/main.0063f4db.js"
   ]
 }

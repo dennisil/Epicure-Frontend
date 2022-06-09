@@ -1,5 +1,5 @@
 .input-container {
-  border: 1px solid black;
+  border: 1px solid gray;
   border-radius: 6px;
 }
 .input-container.header-search {
@@ -38,9 +38,13 @@
       display: none;
     }
   }
+  @include for-mobile-layout { 
+    width: 100%;
+  }
   flex-direction: row-reverse;
-  max-width: 415px;
-  width: 100%;
+  width: 415px;
+  // max-width: 415px;
+  // width: 100%;
   .autocomplete-container {
     max-width: 415px;
     width: 415px;
